@@ -1,2 +1,3 @@
 # 15-group-developer
-sometext
+# Hi there! Yuraul was here.
+
