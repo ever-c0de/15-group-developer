@@ -1,2 +1,3 @@
 # 15-group-developer
-ok guys, how are you? Oh it's GitHub...
+# it's time to do some shit
+
